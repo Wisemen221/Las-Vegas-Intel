@@ -1,24 +1,20 @@
-# lasvegasintel
+# Travel Agency Site (Not Finished)
 
-This is my design for a travel agency company's website called Las Vegas Intel.
-Their link: https://lasvegasintel.com/
+## Visit Site
+You can check it out here :point_right: <a href="https://las-vegas-intel.web.app" target="_blank"> SITE </a>
 
-I am not the owner of the information, photos, or company's property used in this design.
+## Details
+Not fully finished, this site was an attempt to redesign a local travel agencies website. Provides a modern design to an early 2000's look. Unfortunately, their site is no longer existing. This project uses <a href="https://vuejs.org" target="_blank">Vue JS</a> and <a href="https://firebase.google.com" target="_blank">Google's Firebase</a>.
 
-## Project setup
+## Installation
+Must install Vue JS locally from their offical site.
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+php artisan serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Enjoy :palm_tree:
